@@ -2,6 +2,7 @@
  * https://docs.microsoft.com/ko-kr/visualstudio/javascript/tutorial-aspnet-with-typescript?view=vs-2019
  * https://www.typescriptlang.org/docs/handbook/asp-net-core.html
  * C#을 이용한 웹 백엔드
+   * 백엔드까지 내가 익숙하지 않은 언어로 하기엔 너무 힘겹다 
  * 타입 스크립트를 이용한 웹 프론트엔드
  * 실제 원하는 작업을 하기 전 워밍업 프로젝트
 
